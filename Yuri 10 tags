@@ -1,0 +1,10 @@
+<html>: Define o documento HTML inteiro.
+<head>: Contém metadados sobre a página, como título, links para arquivos CSS e scripts.
+<title>: Define o título da página, que aparece na aba do navegador.
+<body>: Contém todo o conteúdo visível da página.
+<h1> a <h6>: Define títulos e subtítulos, com <h1> sendo o mais importante e <h6> o menos.
+<p>: Define um parágrafo de texto.
+<a>: Define um hiperlink (link) para outra página ou recurso.
+<img>: Incorpora uma imagem na página.
+<div>: Define uma seção ou divisão no documento, usada para agrupar elementos.
+<span>: Semelhante ao <div>, mas usado para conteúdo embutido (inline), como aplicar estilos a parte de um texto. 
